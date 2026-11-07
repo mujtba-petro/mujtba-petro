@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/mujtba-petro/mujtba-petro/main/Mujtba_Aamir_Banner.jpg)
+![banner](https://github.com/mujtba-petro/mujtba-petro/blob/main/banner.jpg)
 
 # Hi, I'm Mujtba Aamir Ahmed 👋
 
