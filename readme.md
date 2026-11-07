@@ -65,7 +65,7 @@ More projects will be added here as I publish them.
 - Assisted senior engineers with permit-to-work reviews.
 - Analysed safety KPIs and toolbox talk attendance.
 - Supported site HSE monitoring and compliance.
-- Supported toolbox talks and gained exposure to fishing operations during well operations.
+- gained exposure to fishing operations.
 
 ### Additional Experience
 
