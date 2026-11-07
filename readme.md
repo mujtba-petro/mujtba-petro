@@ -10,7 +10,7 @@ Petroleum Engineering graduate (2025) based in Madinaty, Cairo, Egypt, seeking a
 
 | # | Project | Focus | Link |
 |---|---------|-------|------|
-| 1 | **Bio-fuel Production from Cucumber Peel Waste** | Bio-ethanol as a sustainable alternative fuel; presented at INSIGNIA'24 | [View project](https://github.com/mojtbaamer3-debug/projects/blob/main/PROJECT_FINAL_REPORT.pdf) |
+| 1 | **Bio-fuel Production from Cucumber Peel Waste** | Bio-ethanol as a sustainable alternative fuel; presented at INSIGNIA'24 | [View project](https://github.com/mujtba-petro/mujtba-petro/blob/main/PROJECT_FINAL_REPORT.pdf) |
 
 More projects will be added here as I publish them.
 
