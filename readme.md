@@ -25,7 +25,7 @@ Ibn Rushd Secondary School, Sudanese Secondary School Certificate · 60.4%
 
 | Certification | Issuer | Date | Valid to |
 |---------------|--------|------|----------|
-| IWCF Level 1 | International Well Control Forum | | |
+| IWCF Level 1 | International Well Control Forum | Sep 2025 | |
 | IWCF Well Operations Crew Resource Management (WOCRM) | International Well Control Forum | Oct 2025 | |
 | Basic Offshore Safety Induction and Emergency Training (BOSIET) | MOCSTAF, Mumbai | Jul 2025 | Jul 2029 |
 | Helicopter Underwater Escape Training (HUET) | MOCSTAF, Mumbai | Jul 2025 | Jul 2029 |
