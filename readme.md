@@ -1,5 +1,5 @@
+https://github.com/mujtba-petro/mujtba-petro/blob/main/Mujtba_Aamir_Banner.jpg
 # Hi, I'm Mujtba Aamir Ahmed 👋
-
 **Petroleum Engineer | HSE and Well Operations | Artificial Lift**
 
 Petroleum Engineering graduate (2025) based in Madinaty, Cairo, Egypt, seeking a paid internship or entry-level role in oil and gas facilities, preferably in artificial lift. IWCF Level 1 and WOCRM certified, with BOSIET, HUET and H2S training and offshore HSE traineeship experience, including toolbox talks and fishing operations.
