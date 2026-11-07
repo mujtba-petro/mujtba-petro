@@ -90,8 +90,23 @@ More projects will be added here as I publish them.
 
 ## 🤝 Professional Memberships
 
-- **Society of Petroleum Engineers (SPE):** Student Member, 2020 to 2025
-- **American Association of Petroleum Geologists (AAPG):** Student Member, 2021 to 2025
+### Society of Petroleum Engineers (SPE)
+**Student Member** · 2020 to 2025
+
+SPE is a leading international not-for-profit professional association for upstream oil and gas, focused on exploration, drilling, production and reservoir engineering.
+
+- Part of the global community of petroleum engineers, through student membership during my degree.
+- Student membership gives access to SPE technical publications, including the Journal of Petroleum Technology, and the OnePetro technical library.
+- Relevant to my interests in drilling, well operations, production and artificial lift.
+
+### American Association of Petroleum Geologists (AAPG)
+**Student Member** · 2021 to 2025
+
+AAPG, founded in 1917 and based in Tulsa, Oklahoma, is one of the world's largest professional associations for petroleum geoscientists.
+
+- Student membership connected me with the global geoscience community, supporting my understanding of subsurface geology and reservoir characterization.
+- Student membership gives access to AAPG publications such as the AAPG Bulletin and Explorer magazine, and to its events and networking.
+- Relevant to my reservoir simulation coursework and my interest in the subsurface side of well performance.
 
 ## 🌍 Languages
 
