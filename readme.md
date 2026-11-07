@@ -66,6 +66,7 @@ More projects will be added here as I publish them.
 - Analysed safety KPIs and toolbox talk attendance.
 - Supported site HSE monitoring and compliance.
 - gained exposure to fishing operations.
+- Inflow Performance Relationship.
 
 ### Additional Experience
 
