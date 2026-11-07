@@ -1,4 +1,4 @@
-https://github.com/mujtba-petro/mujtba-petro/blob/main/Mujtba_Aamir_Banner.jpg
+![banner](https://github.com/mujtba-petro/mujtba-petro/blob/main/Mujtba_Aamir_Banner.jpg)
 # Hi, I'm Mujtba Aamir Ahmed 👋
 **Petroleum Engineer | HSE and Well Operations | Artificial Lift**
 
