@@ -44,7 +44,7 @@ Ibn Rushd Secondary School, Sudanese Secondary School Certificate · 60.4%
 
 | # | Project | Focus | Link |
 |---|---------|-------|------|
-| 1 | **Bio-fuel Production from Cucumber Peel Waste** | Bio-ethanol as a sustainable alternative fuel; presented at INSIGNIA'24 | [View project](https://github.com/mujtba-petro/mujtba-petro/blob/main/PROJECT_FINAL_REPORT.pdf) |
+| 1 | **Bio-fuel Production from Cucumber Peel Waste** | Bio-ethanol as a sustainable alternative fuel; presented at INSIGNIA'24 | [View project](https://mujtba-petro.github.io/mujtba-petro/) |
 
 ### Bio-fuel Production from Cucumber Peel Waste · Apr 2024
 *Final year project, Petroleum Department, Presidency University, Bengaluru, India*
